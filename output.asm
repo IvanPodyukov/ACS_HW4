@@ -230,7 +230,7 @@ mov rbp, rsp
     xor     rax, rax,       ; только целочисленные регистры
     call fprintf
 
-    ; Вывод текущей фигуры
+    ; Вывод текущего фильма
     mov     rdi, [.pcont]
     mov     rsi, [.FILE]
     call OutMovie    

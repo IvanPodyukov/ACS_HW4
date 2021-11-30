@@ -280,7 +280,7 @@ mov rbp, rsp
     mov [.plen], rsi    ; сохраняется указатель на длину
     mov [.psize], edx    ; сохраняется число порождаемых элементов
     ; В rdi адрес начала контейнера
-    xor ebx, ebx        ; число фигур = 0
+    xor ebx, ebx        ; число фильмов = 0
 .loop:
     cmp ebx, edx
     jge     .return
@@ -289,7 +289,7 @@ mov rbp, rsp
     push rbx
     push rdx
 
-    call    InRndMovie    ; ввод фигуры
+    call    InRndMovie    ; ввод фильма
     cmp rax, 0          ; проверка успешности ввода
     jle  .return        ; выход, если признак меньше или равен 0
 
@@ -298,7 +298,7 @@ mov rbp, rsp
     inc rbx
 
     pop rdi
-    add rdi, 20            ; адрес следующей фигуры
+    add rdi, 20            ; адрес следующего фильма
 
     jmp .loop
 .return:
