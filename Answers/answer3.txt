@@ -1,0 +1,12 @@
+Filled container:
+0: It is Cartoon: name = abcd, year = 1988, type = puppet. Quotient = 497
+1: It is Cartoon: name = efghr, year = 1956, type = drawn. Quotient = 391.2
+2: It is Cartoon: name = cartoon, year = 2014, type = plasticine. Quotient = 287.714
+3: It is Cartoon: name = none, year = 1934, type = drawn. Quotient = 483.5
+4: It is Cartoon: name = default, year = 2018, type = puppet. Quotient = 288.286
+5: It is Cartoon: name = best, year = 1998, type = plasticine. Quotient = 499.5
+Average quotient = 407.867
+Filled container:
+0: It is Cartoon: name = abcd, year = 1988, type = puppet. Quotient = 497
+1: It is Cartoon: name = none, year = 1934, type = drawn. Quotient = 483.5
+2: It is Cartoon: name = best, year = 1998, type = plasticine. Quotient = 499.5

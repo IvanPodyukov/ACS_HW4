@@ -1,0 +1,21 @@
+Filled container:
+0: It is Fiction: name = jfjke, year = 1976, producer = jejj. Quotient = 395.2
+1: It is Cartoon: name = eikdffk, year = 2022, type = puppet. Quotient = 288.857
+2: It is Science: name = fjfjj, year = 1973, length = 45 minutes. Quotient = 394.6
+3: It is Cartoon: name = default, year = 2018, type = puppet. Quotient = 288.286
+4: It is Fiction: name = best, year = 1998, producer = 3. Quotient = 499.5
+5: It is Cartoon: name = abrd, year = 1988, type = puppet. Quotient = 497
+6: It is Cartoon: name = uiko, year = 1956, type = plasticine. Quotient = 489
+7: It is Science: name = science, year = 2004, length = 33 minutes. Quotient = 286.286
+8: It is Science: name = none, year = 1967, length = 67 minutes. Quotient = 491.75
+9: It is Science: name = space, year = 2018, length = 28 minutes. Quotient = 403.6
+10: It is Fiction: name = bestfic, year = 1966, producer = yea. Quotient = 280.857
+Average quotient = 392.267
+Filled container:
+0: It is Fiction: name = jfjke, year = 1976, producer = jejj. Quotient = 395.2
+1: It is Science: name = fjfjj, year = 1973, length = 45 minutes. Quotient = 394.6
+2: It is Fiction: name = best, year = 1998, producer = 3. Quotient = 499.5
+3: It is Cartoon: name = abrd, year = 1988, type = puppet. Quotient = 497
+4: It is Cartoon: name = uiko, year = 1956, type = plasticine. Quotient = 489
+5: It is Science: name = none, year = 1967, length = 67 minutes. Quotient = 491.75
+6: It is Science: name = space, year = 2018, length = 28 minutes. Quotient = 403.6

@@ -1,0 +1,11 @@
+Filled container:
+0: It is Cartoon: name = cartoon, year = 1987, type = plasticine. Quotient = 283.857
+1: It is Science: name = Science, year = 2021, length = 89 minutes. Quotient = 288.714
+2: It is Fiction: name = fiCtion, year = 2005, producer = Kol. Quotient = 286.429
+3: It is Science: name = science, year = 1932, length = 35 minutes. Quotient = 276
+4: It is Cartoon: name = Cartoon, year = 1978, type = puppet. Quotient = 282.571
+Average quotient = 283.514
+Filled container:
+0: It is Cartoon: name = cartoon, year = 1987, type = plasticine. Quotient = 283.857
+1: It is Science: name = Science, year = 2021, length = 89 minutes. Quotient = 288.714
+2: It is Fiction: name = fiCtion, year = 2005, producer = Kol. Quotient = 286.429

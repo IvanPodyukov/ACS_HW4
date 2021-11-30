@@ -1,0 +1,14 @@
+Filled container:
+0: It is Cartoon: name = jehjfj, year = 1945, type = puppet. Quotient = 324.167
+1: It is Science: name = rifj, year = 2000, length = 74 minutes. Quotient = 500
+2: It is Cartoon: name = hfhgfhi, year = 1949, type = drawn. Quotient = 278.429
+3: It is Science: name = fkj, year = 2021, length = 128 minutes. Quotient = 673.667
+4: It is Fiction: name = huueJfj, year = 1972, producer = Iva. Quotient = 281.714
+5: It is Cartoon: name = poool, year = 1989, type = plasticine. Quotient = 397.8
+6: It is Cartoon: name = iowowkl, year = 1973, type = plasticine. Quotient = 281.857
+7: It is Fiction: name = Hell, year = 1987, producer = Joe. Quotient = 496.75
+Average quotient = 404.298
+Filled container:
+0: It is Science: name = rifj, year = 2000, length = 74 minutes. Quotient = 500
+1: It is Science: name = fkj, year = 2021, length = 128 minutes. Quotient = 673.667
+2: It is Fiction: name = Hell, year = 1987, producer = Joe. Quotient = 496.75

@@ -1,0 +1,8 @@
+Filled container:
+0: It is Science: name = film2, year = 2013, length = 68 minutes. Quotient = 402.6
+1: It is Cartoon: name = film3, year = 1950, type = puppet. Quotient = 390
+2: It is Fiction: name = film1, year = 2012, producer = Jue. Quotient = 402.4
+Average quotient = 398.333
+Filled container:
+0: It is Science: name = film2, year = 2013, length = 68 minutes. Quotient = 402.6
+1: It is Fiction: name = film1, year = 2012, producer = Jue. Quotient = 402.4
