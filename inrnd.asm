@@ -255,17 +255,6 @@ mov rbp, rsp
 leave
 ret
 
-;----------------------------------------------
-;// Случайный ввод содержимого контейнера
-;void InRndContainer(void *c, int *len, int size) {
-    ;void *tmp = c;
-    ;while(*len < size) {
-        ;if(InRndShape(tmp)) {
-            ;tmp = tmp + shapeSize;
-            ;(*len)++;
-        ;}
-    ;}
-;}
 global InRndContainer
 InRndContainer:
 section .bss
